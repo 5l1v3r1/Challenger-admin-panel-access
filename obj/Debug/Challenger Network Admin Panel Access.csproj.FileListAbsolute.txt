@@ -1,0 +1,18 @@
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\bin\Debug\Challenger Network Admin Panel Access.exe.config
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\bin\Debug\Challenger Network Admin Panel Access.exe
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\bin\Debug\Challenger Network Admin Panel Access.pdb
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger Network Admin Panel Access.csprojAssemblyReference.cache
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger_Network_Admin_Panel_Access.Form1.resources
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger_Network_Admin_Panel_Access.Form2.resources
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger_Network_Admin_Panel_Access.Properties.Resources.resources
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger Network Admin Panel Access.csproj.GenerateResource.cache
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger Network Admin Panel Access.exe
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger Network Admin Panel Access.pdb
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger_Network_Admin_Panel_Access.Form3.resources
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger_Network_Admin_Panel_Access.Form4.resources
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger_Network_Admin_Panel_Access.AboutBox1.resources
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\bin\Debug\Challenger Network Admin Panel Access.exe.manifest
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\bin\Debug\Challenger Network Admin Panel Access.application
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger Network Admin Panel Access.TrustInfo.xml
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger Network Admin Panel Access.exe.manifest
+C:\Users\rapgo\source\repos\Challenger Network Admin Panel Access\obj\Debug\Challenger Network Admin Panel Access.application
